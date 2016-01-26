@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/SebbeLar/ida-homepage/issues"
   },
-  "homepage": "https://github.com/SebbeLar/ida-homepage#readme"
+  "homepage": "https://github.com/SebbeLar/ida-homepage#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.4",
+    "jquery": "^2.2.0"
+  }
 }
